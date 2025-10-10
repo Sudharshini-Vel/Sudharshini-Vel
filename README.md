@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sudharshini!
+# 👋 Hi, I'm Sudharshini Vel!
 
 🎓 Final Year B.Tech – Artificial Intelligence & Data Science  
 🚀 Founder @ [SuMaOnix](https://sumaonix.netlify.app/) | 💡 Aspiring Data Analyst  
@@ -40,3 +40,4 @@
 > A machine learning model trained on Kaggle dataset to predict food freshness using image classification.
 
 ### 🧩 [ActionEcho](#)
+> A machine learning model turn actions into speech it is specially for differently abled people(non verbal people).
