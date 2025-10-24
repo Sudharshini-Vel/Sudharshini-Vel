@@ -30,6 +30,9 @@
 
 ## 🧠 Featured Projects
 
+### 🧩 [ActionEcho](#)
+> Currently working on a machine learning model turn actions into speech it is specially for differently abled people(non verbal people).
+
 ### 🤖 [SuMaOnix AI Chatbot](https://sumaonix.netlify.app/)
 > A custom-built chatbot that interacts with users, answers queries, and integrates seamlessly into websites for product-based interactions.
 
@@ -39,5 +42,3 @@
 ### 🥗 [Food Freshness Image Classifier](#)
 > A machine learning model trained on Kaggle dataset to predict food freshness using image classification.
 
-### 🧩 [ActionEcho](#)
-> A machine learning model turn actions into speech it is specially for differently abled people(non verbal people).
