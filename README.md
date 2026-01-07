@@ -30,11 +30,11 @@
 
 ## 🏆 Experience
 
-- <img src="https://seeklogo.com/images/F/foxconn-logo-482925C1F1-seeklogo.com.png" width="24" alt="Foxconn logo"> **Intern — Foxconn**  
-- <img src="https://toppng.com/uploads/preview/schneider-electric-vector-logo-free-467515.png" width="24" alt="Schneider Electric logo"> **Intern — Schneider Electric**  
-- **Intern — HERE AND NOW AI** *(AI institute & enterprise solutions provider)* :contentReference[oaicite:0]{index=0}  
-- **Intern HR — Giri Trading Agency** *(HR role at Giri Marketing-related agency)*  
-- **Core Team — SumaOnix (AI & Data Science)** *(Founder & core contributor)*  
+![Foxconn](https://img.shields.io/badge/Foxconn-0A1A2F?style=for-the-badge)
+![Schneider Electric](https://img.shields.io/badge/Schneider%20Electric-3DCD58?style=for-the-badge&logo=schneider-electric&logoColor=white)
+![HERE AND NOW AI](https://img.shields.io/badge/HERE%20AND%20NOW%20AI-FF6F00?style=for-the-badge)
+![Giri Trading Agency](https://img.shields.io/badge/Giri%20Trading%20Agency-0A66C2?style=for-the-badge)
+![SumaOnix](https://img.shields.io/badge/SumaOnix-6A0DAD?style=for-the-badge)
 
 ---
 
