@@ -28,6 +28,17 @@
 
 ---
 
+## 🏆 Experience
+
+- <img src="https://seeklogo.com/images/F/foxconn-logo-482925C1F1-seeklogo.com.png" width="24" alt="Foxconn logo"> **Intern — Foxconn**  
+- <img src="https://toppng.com/uploads/preview/schneider-electric-vector-logo-free-467515.png" width="24" alt="Schneider Electric logo"> **Intern — Schneider Electric**  
+- **Intern — HERE AND NOW AI** *(AI institute & enterprise solutions provider)* :contentReference[oaicite:0]{index=0}  
+- **Intern HR — Giri Trading Agency** *(HR role at Giri Marketing-related agency)*  
+- **Core Team — SumaOnix (AI & Data Science)** *(Founder & core contributor)*  
+
+---
+
+
 ## 🧠 Featured Projects
 
 ### 🧩 [ActionEcho](#)
@@ -41,4 +52,15 @@
 
 ### 🥗 [Food Freshness Image Classifier](#)
 > A machine learning model trained on Kaggle dataset to predict food freshness using image classification.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sudharshini-vel/
+- 🧑‍💻 GitHub: https://github.com/Sudharshini-Vel  
+
+---
+
+⭐ *I believe in learning by building and improving every day!*
 
