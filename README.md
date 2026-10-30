@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="50%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:003B3B,50:145454,100:2EC4B6&text=SUDHARSHINI%20VEL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=FFD166&strokeWidth=1&desc=Founder%20%26%20CEO%20%E2%80%A2%20SuMaOnix&descSize=22&descAlignY=60&descColor=FFD166" alt="Sudharshini Vel"/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:003B3B,50:145454,100:2EC4B6&text=SUDHARSHINI%20VEL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=FFD166&strokeWidth=1&desc=Founder%20%26%20CEO%20%E2%80%A2%20SuMaOnix&descSize=22&descAlignY=60&descColor=FFD166" alt="Sudharshini Vel"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2EC4B6&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9A%80+I+turn+data+into+decisions;%F0%9F%8C%90+Websites+%7C+Dashboards+%7C+Apps+%7C+AI;%F0%9F%8E%93+Skill+programs+for+schools+%26+colleges;%F0%9F%A4%9D+Let's+build+something+great+together" alt="Intro"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/FOUNDER%20%26%20CEO-SuMaOnix-FFD166?style=for-the-badge&labelColor=003B3B" />
 <img src="https://img.shields.io/badge/B.TECH-AI%20%26%20DATA%20SCIENCE-2EC4B6?style=for-the-badge&labelColor=003B3B" />
@@ -22,17 +22,25 @@
 
 </div>
 
-<br/>
+---
+
+## 👋 About Me
+
+I'm **Sudharshini Vel**, Founder & CEO of **SuMaOnix**, a B.Tech student in **Artificial Intelligence & Data Science**, and a Data Analytics / BI practitioner. I help businesses make better decisions with data, and I help students build job-ready skills through hands-on programs.
+
+> **Simplify. Analyze. Innovate.**
+
+---
+
+## ⚡ What I Do
 
 <div align="center">
-
-## ⚡ WHAT I DO
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 💼 FOR BUSINESSES
+### 💼 For Businesses
 
 <img src="https://img.shields.io/badge/WEBSITES-2EC4B6?style=for-the-badge" /><br/>
 <img src="https://img.shields.io/badge/DASHBOARDS-FFD166?style=for-the-badge" /><br/>
@@ -43,7 +51,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🎓 FOR SCHOOLS & COLLEGES
+### 🎓 For Schools & Colleges
 
 <img src="https://img.shields.io/badge/PYTHON-2EC4B6?style=for-the-badge&logo=python&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-FFD166?style=for-the-badge" /><br/>
@@ -57,11 +65,11 @@
 
 </div>
 
-<br/>
+---
+
+## 🏆 Experience
 
 <div align="center">
-
-## 🏆 EXPERIENCE
 
 <img src="https://img.shields.io/badge/FOXCONN-003B3B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SCHNEIDER%20ELECTRIC-3DCD58?style=for-the-badge" />
@@ -71,11 +79,11 @@
 
 </div>
 
-<br/>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-
-## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -112,11 +120,11 @@
 
 </div>
 
-<br/>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-## 🛠️ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda,powerbi,excel&theme=dark" />
 
@@ -127,11 +135,11 @@
 
 </div>
 
-<br/>
+---
+
+## 🤝 Let's Work Together
 
 <div align="center">
-
-## 🤝 LET'S WORK TOGETHER
 
 ### Business owner? School or college? Let's talk.
 
