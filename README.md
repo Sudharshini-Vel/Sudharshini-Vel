@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:003B3B,50:145454,100:2EC4B6&text=SUDHARSHINI%20VEL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=FFD166&strokeWidth=1&desc=Founder%20%26%20CEO%20%E2%80%A2%20SuMaOnix&descSize=22&descAlignY=60&descColor=FFD166" alt="Sudharshini Vel"/>
+<img width="50%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:003B3B,50:145454,100:2EC4B6&text=SUDHARSHINI%20VEL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=FFD166&strokeWidth=1&desc=Founder%20%26%20CEO%20%E2%80%A2%20SuMaOnix&descSize=22&descAlignY=60&descColor=FFD166" alt="Sudharshini Vel"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2EC4B6&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9A%80+I+turn+data+into+decisions;%F0%9F%8C%90+Websites+%7C+Dashboards+%7C+Apps+%7C+AI;%F0%9F%8E%93+Skill+programs+for+schools+%26+colleges;%F0%9F%A4%9D+Let's+build+something+great+together" alt="Intro"/>
 
