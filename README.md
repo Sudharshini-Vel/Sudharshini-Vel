@@ -1,168 +1,402 @@
 
 <div align="center">
 
-# SUDHARSHINI VEL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:003B3B,50:145454,100:789B8C&text=SUDHARSHINI%20VEL&fontSize=43&fontColor=F3F4EC&fontAlignY=42&animation=fadeIn&desc=DATA%20ANALYTICS%20%2F%20ARTIFICIAL%20INTELLIGENCE%20%2F%20TECHNOLOGY&descSize=11&descAlignY=68&descColor=E0E9DF" alt="Sudharshini Vel"/>
 
-### Founder & CEO | SuMaOnix
+<br/>
 
-**DATA ANALYTICS · ARTIFICIAL INTELLIGENCE · SMART AUTOMATION**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=78A99A&center=true&vCenter=true&width=650&height=35&lines=Founder+%26+CEO+at+SuMaOnix.;Transforming+data+into+decisions.;Building+intelligent+technology+solutions.;Simplifying+complexity+through+innovation." alt="Professional introduction"/>
 
-Turning complex challenges into simple, intelligent solutions.
-
-<br>
+<br/>
 
 <a href="https://sumaonix.netlify.app/">
-<img src="https://img.shields.io/badge/SuMaOnix-004040?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/SuMaOnix-Visit%20Company-145454?style=flat-square&logo=googlechrome&logoColor=E8F0E8" alt="SuMaOnix"/>
 </a>
 <a href="https://www.linkedin.com/in/sudharshini-vel/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-145454?style=flat-square&logo=linkedin&logoColor=E8F0E8" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Sudharshini-Vel">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-334155?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-145454?style=flat-square&logo=github&logoColor=E8F0E8" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## ABOUT ME
+### 01 / PROFILE
 
-I am a technology professional with a background in **Artificial Intelligence and Data Science**, focused on developing practical solutions through data, intelligent systems, and automation.
+Technology is most valuable when it solves real problems.
 
-As the **Founder & CEO of SuMaOnix**, I lead initiatives in technology development, data analytics, digital solutions, and technical education.
+I am **Sudharshini Vel**, a B.Tech graduate in Artificial Intelligence and Data Science, and the **Founder & CEO of SuMaOnix**.
 
-My approach combines analytical thinking, technical knowledge, and business understanding to transform ideas into meaningful outcomes.
+My work revolves around data analytics, intelligent applications, business solutions, and technology-driven skill development.
 
-**Areas of Interest**
+I believe in combining analytical thinking with practical implementation to turn complex challenges into simple, effective solutions.
 
-- Data Analytics & Business Intelligence
-- Artificial Intelligence & Machine Learning
-- Data Visualization & Business Reporting
-- Process Automation & Optimization
-- Python Development
-- Technology Entrepreneurship
+**CURRENT ROLE**  
+Founder & CEO — SuMaOnix
 
----
+**PROFESSIONAL INTERESTS**  
+Data Analytics · Business Intelligence · Artificial Intelligence · Automation
 
-## TECHNOLOGY & EXPERTISE
-
-**Programming & Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-34495E?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-2874A6?style=flat-square&logo=numpy&logoColor=white)
-
-**Data Visualization & Business Intelligence**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-D9A400?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-3975A8?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3975A8?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-287C8E?style=flat-square)
-
-**Development & Productivity Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-D66A25?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-E6A23C?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E65C35?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**EDUCATION**  
+B.Tech — Artificial Intelligence & Data Science  
+Loyola Institute of Technology | Anna University
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+### 02 / AREAS OF EXPERTISE
 
-### Founder & CEO | SuMaOnix
+<div align="center">
 
-Leading a technology and skill development initiative focused on:
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda&theme=light" alt="Technical tools"/>
 
-- Data analytics and business intelligence.
-- AI-powered applications and automation.
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-145454?style=flat-square" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-287C78?style=flat-square" />
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-527C70?style=flat-square" />
+<img src="https://img.shields.io/badge/AUTOMATION-789B8C?style=flat-square" />
+
+</div>
+
+**Programming & Data**
+
+- Python, SQL
+- Pandas, NumPy
+- Data Cleaning and Exploratory Data Analysis
+
+**Visualization & Reporting**
+
+- Power BI, Tableau
+- Matplotlib, Seaborn
+- Microsoft Excel
+
+**Development & Workflow**
+
+- Jupyter Notebook, Google Colab
+- Git & GitHub
+- AI Application Development
+
+---
+
+### 03 / LEADERSHIP & EXPERIENCE
+
+**FOUNDER & CEO — SuMaOnix**
+
+Building a technology and skill development initiative with a focus on:
+
+- AI-driven applications and digital solutions.
+- Business analytics and reporting.
 - Website and application development.
-- Technical training and project-based learning.
-- Digital solutions for businesses and individuals.
+- Technical education and project-based learning.
+- Student mentorship and skill development.
 
-### Industry Experience
+**INDUSTRY EXPOSURE**
 
-| Organization | Exposure |
-|---|---|
+| Organization | Experience Area |
+|:---|:---|
 | Foxconn | Industrial Operations |
 | Schneider Electric | Industrial Environment |
 | HERE AND NOW AI | AI & Technology |
 | Pantech Solutions | Data Science |
-| Giri Trading Agency | Data Analysis & MIS Reporting |
+| Giri Trading Agency | Data Analysis & MIS |
 
 ---
 
-## SELECTED PROJECTS
+### 04 / SELECTED PROJECTS
 
-### 01 | ActionEcho — Gesture-to-Speech System
+**01 — ActionEcho**
 
-A gesture recognition solution designed to translate hand gestures into speech, supporting communication for non-verbal individuals.
+*Gesture-to-Speech Communication System*
 
-**Tech Stack:** Python · MediaPipe · Machine Learning · pyttsx3
+A gesture recognition solution designed to convert hand gestures into speech, supporting communication for non-verbal individuals.
 
-### 02 | SuMaOnix AI Chatbot
+`PYTHON` `MEDIAPIPE` `MACHINE LEARNING` `pyttsx3`
 
-An AI-powered chatbot concept designed to enhance website interactions, respond to user queries, and support customer engagement.
+**02 — SuMaOnix AI Chatbot**
 
-**Platform:** [SuMaOnix](https://sumaonix.netlify.app/)
+*Intelligent Website Interaction*
 
-### 03 | Traffic Accident Analysis
+An AI-powered chatbot concept designed to improve customer engagement, respond to user queries, and support website interactions.
 
-A data analytics project focused on identifying accident hotspots, analyzing accident patterns, and extracting meaningful insights through visualization.
+`PYTHON` `AI` `CHATBOT DEVELOPMENT`
 
-**Tech Stack:** Python · Pandas · Matplotlib · Seaborn
+[Explore SuMaOnix →](https://sumaonix.netlify.app/)
 
-### 04 | Food Freshness Image Classification
+**03 — Traffic Accident Analysis**
 
-A machine learning application that classifies food freshness using image-based analysis and a Kaggle dataset.
+*Data-Driven Accident Insights*
 
-**Tech Stack:** Python · Machine Learning · Image Classification
+Analyzing accident datasets to identify hotspots, discover time-based patterns, and communicate findings through visualizations.
+
+`PYTHON` `PANDAS` `MATPLOTLIB` `SEABORN`
+
+**04 — Food Freshness Classification**
+
+*Image-Based Machine Learning*
+
+A machine learning project using image classification to identify food freshness from a Kaggle dataset.
+
+`PYTHON` `MACHINE LEARNING` `IMAGE CLASSIFICATION`
 
 ---
 
-## EDUCATION
+### 05 / CURRENT DIRECTION
 
-**Bachelor of Technology — Artificial Intelligence & Data Science**
+My current focus is on building solutions that connect technology with real-world needs.
 
-Loyola Institute of Technology  
-Anna University
-
----
-
-## CURRENT FOCUS
-
-- Developing AI-driven applications and intelligent systems.
-- Building data-driven business solutions.
-- Advancing expertise in business intelligence and visualization.
+- Developing AI-powered applications.
+- Advancing data analytics and business intelligence.
 - Exploring cloud technologies and deployment.
-- Leading technology initiatives through SuMaOnix.
-- Delivering practical Python training and mentoring.
+- Building practical business solutions through SuMaOnix.
+- Mentoring students in Python and project development.
 
 ---
 
-## CONNECT WITH ME
+### 06 / CONNECT
 
-| Platform | Link |
-|---|---|
-| LinkedIn | [Sudharshini Vel](https://www.linkedin.com/in/sudharshini-vel/) |
-| GitHub | [Sudharshini-Vel](https://github.com/Sudharshini-Vel) |
-| Company | [SuMaOnix](https://sumaonix.netlify.app/) |
-| Email | sumaonixtech@gmail.com |
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sudharshini-vel/">
+<img src="https://img.shields.io/badge/LINKEDIN-145454?style=for-the-badge&logo=linkedin&logoColor=E8F0E8"/>
+</a>
+<a href="https://github.com/Sudharshini-Vel">
+<img src="https://img.shields.io/badge/GITHUB-145454?style=for-the-badge&logo=github&logoColor=E8F0E8"/>
+</a>
+<a href="https://sumaonix.netlify.app/">
+<img src="https://img.shields.io/badge/SUMAONIX-145454?style=for-the-badge&logo=googlechrome&logoColor=E8F0E8"/>
+</a>
+
+<br/><br/>
+
+**Business & Professional Enquiries**
+
+sumaonixtech@gmail.com
+
+<br/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### MY PROFESSIONAL PHILOSOPHY
+### THE PHILOSOPHY
 
 # SIMPLIFY. ANALYZE. INNOVATE.
 
-**"Turning Data into Decisions — Turning Ideas into Impact."**
+**"Turning Data into Decisions — and Ideas into Impact."**
 
-*Technology should not make life complicated. It should make everything simpler.*
+*We make everything simple, as no one thinks.*
 
-**Founder & CEO | SuMaOnix**
+<br/>
+
+<sub>LESS COMPLEXITY. MORE CLARITY. MEANINGFUL INNOVATION.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:789B8C,50:145454,100:003B3B" alt="Footer accent"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:003B3B,50:145454,100:789B8C&text=SUDHARSHINI%20VEL&fontSize=43&fontColor=F3F4EC&fontAlignY=42&animation=fadeIn&desc=DATA%20ANALYTICS%20%2F%20ARTIFICIAL%20INTELLIGENCE%20%2F%20TECHNOLOGY&descSize=11&descAlignY=68&descColor=E0E9DF" alt="Sudharshini Vel"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=78A99A&center=true&vCenter=true&width=650&height=35&lines=Founder+%26+CEO+at+SuMaOnix.;Transforming+data+into+decisions.;Building+intelligent+technology+solutions.;Simplifying+complexity+through+innovation." alt="Professional introduction"/>
+
+<br/>
+
+<a href="https://sumaonix.netlify.app/">
+<img src="https://img.shields.io/badge/SuMaOnix-Visit%20Company-145454?style=flat-square&logo=googlechrome&logoColor=E8F0E8" alt="SuMaOnix"/>
+</a>
+<a href="https://www.linkedin.com/in/sudharshini-vel/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-145454?style=flat-square&logo=linkedin&logoColor=E8F0E8" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Sudharshini-Vel">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-145454?style=flat-square&logo=github&logoColor=E8F0E8" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+### 01 / PROFILE
+
+Technology is most valuable when it solves real problems.
+
+I am **Sudharshini Vel**, a B.Tech graduate in Artificial Intelligence and Data Science, and the **Founder & CEO of SuMaOnix**.
+
+My work revolves around data analytics, intelligent applications, business solutions, and technology-driven skill development.
+
+I believe in combining analytical thinking with practical implementation to turn complex challenges into simple, effective solutions.
+
+**CURRENT ROLE**  
+Founder & CEO — SuMaOnix
+
+**PROFESSIONAL INTERESTS**  
+Data Analytics · Business Intelligence · Artificial Intelligence · Automation
+
+**EDUCATION**  
+B.Tech — Artificial Intelligence & Data Science  
+Loyola Institute of Technology | Anna University
+
+---
+
+### 02 / AREAS OF EXPERTISE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda&theme=light" alt="Technical tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-145454?style=flat-square" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-287C78?style=flat-square" />
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-527C70?style=flat-square" />
+<img src="https://img.shields.io/badge/AUTOMATION-789B8C?style=flat-square" />
+
+</div>
+
+**Programming & Data**
+
+- Python, SQL
+- Pandas, NumPy
+- Data Cleaning and Exploratory Data Analysis
+
+**Visualization & Reporting**
+
+- Power BI, Tableau
+- Matplotlib, Seaborn
+- Microsoft Excel
+
+**Development & Workflow**
+
+- Jupyter Notebook, Google Colab
+- Git & GitHub
+- AI Application Development
+
+---
+
+### 03 / LEADERSHIP & EXPERIENCE
+
+**FOUNDER & CEO — SuMaOnix**
+
+Building a technology and skill development initiative with a focus on:
+
+- AI-driven applications and digital solutions.
+- Business analytics and reporting.
+- Website and application development.
+- Technical education and project-based learning.
+- Student mentorship and skill development.
+
+**INDUSTRY EXPOSURE**
+
+| Organization | Experience Area |
+|:---|:---|
+| Foxconn | Industrial Operations |
+| Schneider Electric | Industrial Environment |
+| HERE AND NOW AI | AI & Technology |
+| Pantech Solutions | Data Science |
+| Giri Trading Agency | Data Analysis & MIS |
+
+---
+
+### 04 / SELECTED PROJECTS
+
+**01 — ActionEcho**
+
+*Gesture-to-Speech Communication System*
+
+A gesture recognition solution designed to convert hand gestures into speech, supporting communication for non-verbal individuals.
+
+`PYTHON` `MEDIAPIPE` `MACHINE LEARNING` `pyttsx3`
+
+**02 — SuMaOnix AI Chatbot**
+
+*Intelligent Website Interaction*
+
+An AI-powered chatbot concept designed to improve customer engagement, respond to user queries, and support website interactions.
+
+`PYTHON` `AI` `CHATBOT DEVELOPMENT`
+
+[Explore SuMaOnix →](https://sumaonix.netlify.app/)
+
+**03 — Traffic Accident Analysis**
+
+*Data-Driven Accident Insights*
+
+Analyzing accident datasets to identify hotspots, discover time-based patterns, and communicate findings through visualizations.
+
+`PYTHON` `PANDAS` `MATPLOTLIB` `SEABORN`
+
+**04 — Food Freshness Classification**
+
+*Image-Based Machine Learning*
+
+A machine learning project using image classification to identify food freshness from a Kaggle dataset.
+
+`PYTHON` `MACHINE LEARNING` `IMAGE CLASSIFICATION`
+
+---
+
+### 05 / CURRENT DIRECTION
+
+My current focus is on building solutions that connect technology with real-world needs.
+
+- Developing AI-powered applications.
+- Advancing data analytics and business intelligence.
+- Exploring cloud technologies and deployment.
+- Building practical business solutions through SuMaOnix.
+- Mentoring students in Python and project development.
+
+---
+
+### 06 / CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sudharshini-vel/">
+<img src="https://img.shields.io/badge/LINKEDIN-145454?style=for-the-badge&logo=linkedin&logoColor=E8F0E8"/>
+</a>
+<a href="https://github.com/Sudharshini-Vel">
+<img src="https://img.shields.io/badge/GITHUB-145454?style=for-the-badge&logo=github&logoColor=E8F0E8"/>
+</a>
+<a href="https://sumaonix.netlify.app/">
+<img src="https://img.shields.io/badge/SUMAONIX-145454?style=for-the-badge&logo=googlechrome&logoColor=E8F0E8"/>
+</a>
+
+<br/><br/>
+
+**Business & Professional Enquiries**
+
+sumaonixtech@gmail.com
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+### THE PHILOSOPHY
+
+# SIMPLIFY. ANALYZE. INNOVATE.
+
+**"Turning Data into Decisions — and Ideas into Impact."**
+
+*We make everything simple, as no one thinks.*
+
+<br/>
+
+<sub>LESS COMPLEXITY. MORE CLARITY. MEANINGFUL INNOVATION.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:789B8C,50:145454,100:003B3B" alt="Footer accent"/>
 
 </div>
