@@ -1,203 +1,146 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:003B3B,50:145454,100:789B8C&text=SUDHARSHINI%20VEL&fontSize=46&fontColor=F3F4EC&fontAlignY=40&animation=fadeIn&desc=FOUNDER%20%26%20CEO%20OF%20SUMAONIX%20%2F%20DATA%20ANALYTICS%20%2F%20AI%20%2F%20TECHNOLOGY%20EDUCATOR&descSize=12&descAlignY=66&descColor=E0E9DF" alt="Sudharshini Vel"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:003B3B,50:145454,100:2EC4B6&text=SUDHARSHINI%20VEL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=FFD166&strokeWidth=1&desc=Founder%20%26%20CEO%20%E2%80%A2%20SuMaOnix&descSize=22&descAlignY=60&descColor=FFD166" alt="Sudharshini Vel"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2EC4B6&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9A%80+I+turn+data+into+decisions;%F0%9F%8C%90+Websites+%7C+Dashboards+%7C+Apps+%7C+AI;%F0%9F%8E%93+Skill+programs+for+schools+%26+colleges;%F0%9F%A4%9D+Let's+build+something+great+together" alt="Intro"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOUNDER%20%26%20CEO-SuMaOnix-FFD166?style=for-the-badge&labelColor=003B3B" />
+<img src="https://img.shields.io/badge/B.TECH-AI%20%26%20DATA%20SCIENCE-2EC4B6?style=for-the-badge&labelColor=003B3B" />
+<img src="https://img.shields.io/badge/DATA-ANALYTICS%20%2F%20BI-EF476F?style=for-the-badge&labelColor=003B3B" />
+
+<br/><br/>
+
+<a href="mailto:sumaonixtech@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20HIRE%20ME%20%2F%20BOOK%20A%20FREE%20CALL-FFD166?style=for-the-badge&labelColor=EF476F" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=78A99A&center=true&vCenter=true&width=700&height=35&lines=I+build+websites%2C+dashboards+%26+apps+for+businesses.;I+train+students+in+Python%2C+data+%26+AI.;Founder+%26+CEO+at+SuMaOnix.;Turning+data+into+decisions." alt="Professional introduction"/>
-
-<br/>
-
-<a href="mailto:sumaonixtech@gmail.com">
-<img src="https://img.shields.io/badge/Work%20With%20Me-Free%20Consultation-287C78?style=for-the-badge&logo=gmail&logoColor=E8F0E8" alt="Work with me"/>
-</a>
-<a href="https://sumaonix.netlify.app/">
-<img src="https://img.shields.io/badge/SuMaOnix-Visit%20Company-145454?style=for-the-badge&logo=googlechrome&logoColor=E8F0E8" alt="SuMaOnix"/>
-</a>
-<a href="https://www.linkedin.com/in/sudharshini-vel/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-145454?style=for-the-badge&logo=linkedin&logoColor=E8F0E8" alt="LinkedIn"/>
-</a>
+<a href="https://sumaonix.netlify.app/"><img src="https://img.shields.io/badge/SUMAONIX-Website-145454?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sudharshini-vel/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sudharshini-Vel"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-### 01 / HELLO, I'M SUDHARSHINI
+<div align="center">
 
-Technology is most valuable when it solves real problems.
-
-I am a **B.Tech graduate in Artificial Intelligence and Data Science** and the **Founder & CEO of SuMaOnix**, where I help **businesses** grow with digital solutions and help **schools and colleges** prepare students with practical technical skills.
-
-I combine analytical thinking with hands-on implementation to turn complex challenges into simple, effective solutions.
-
-| | |
-|:---|:---|
-| **Current Role** | Founder & CEO, SuMaOnix |
-| **Specialties** | Data Analytics, Business Intelligence, AI, Automation |
-| **Education** | B.Tech AI & Data Science, Loyola Institute of Technology (Anna University) |
-| **Open To** | Client projects, institutional training, collaborations |
-
----
-
-### 02 / HOW I CAN HELP YOU
+## ⚡ WHAT I DO
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-#### FOR BUSINESS OWNERS
+### 💼 FOR BUSINESSES
 
-Through SuMaOnix, I design and build:
-
-- **Websites** that look professional and bring in enquiries
-- **Dashboards** (Power BI, Tableau, Excel) that make your data clear
-- **Apps & AI tools** such as chatbots and custom solutions
-- **Data analysis & MIS reports** for confident decisions
-- **Automation** that saves your team time
-
-*Tell me the problem, and I'll suggest the simplest solution.*
+<img src="https://img.shields.io/badge/WEBSITES-2EC4B6?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/DASHBOARDS-FFD166?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/APPS%20%26%20AI-EF476F?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/MIS%20%26%20REPORTS-118AB2?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/AUTOMATION-06D6A0?style=for-the-badge" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-#### FOR SCHOOLS & COLLEGES
+### 🎓 FOR SCHOOLS & COLLEGES
 
-I conduct practical, project-based skill development classes in:
-
-- **Python programming**
-- **Data analytics** (Excel, SQL, Power BI, Tableau)
-- **AI & Machine Learning basics**
-- **Website development basics**
-- **Mini projects & portfolio building**
-
-*Workshops, short courses and mentorship, tailored to your curriculum and students.*
+<img src="https://img.shields.io/badge/PYTHON-2EC4B6?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-FFD166?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-EF476F?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/WEB%20BASICS-118AB2?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/PROJECTS-06D6A0?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-### 03 / EXPERIENCE & LEADERSHIP
-
-**FOUNDER & CEO, SuMaOnix**
-
-Building a technology and skill development company focused on:
-
-- AI-driven applications and digital solutions
-- Business analytics and reporting
-- Website and application development
-- Technical education and project-based learning
-- Student mentorship
-
-**INDUSTRY EXPOSURE**
-
-| Organization | Experience Area |
-|:---|:---|
-| Foxconn | Industrial Operations |
-| Schneider Electric | Industrial Environment |
-| HERE AND NOW AI | AI & Technology |
-| Pantech Solutions | Data Science |
-| Giri Trading Agency | Data Analysis & MIS |
-
----
-
-### 04 / SELECTED PROJECTS
-
-**01. ActionEcho: Gesture-to-Speech Communication System**
-Converts hand gestures into speech to support communication for non-verbal individuals.
-`PYTHON` `MEDIAPIPE` `MACHINE LEARNING` `pyttsx3`
-
-**02. SuMaOnix AI Chatbot: Intelligent Website Interaction**
-An AI-powered chatbot concept to improve customer engagement and answer visitor queries.
-`PYTHON` `AI` `CHATBOT DEVELOPMENT`
-
-**03. Traffic Accident Analysis: Data-Driven Insights**
-Identifies accident hotspots and time-based patterns, communicated through clear visualizations.
-`PYTHON` `PANDAS` `MATPLOTLIB` `SEABORN`
-
-**04. Food Freshness Classification: Image-Based Machine Learning**
-Classifies food freshness from images using a machine learning model.
-`PYTHON` `MACHINE LEARNING` `IMAGE CLASSIFICATION`
-
-[See more at SuMaOnix →](https://sumaonix.netlify.app/)
-
----
-
-### 05 / SKILLS & TOOLS
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda&theme=light" alt="Technical tools"/>
+## 🏆 EXPERIENCE
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DATA%20ANALYSIS-145454?style=flat-square" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-287C78?style=flat-square" />
-<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-527C70?style=flat-square" />
-<img src="https://img.shields.io/badge/AUTOMATION-789B8C?style=flat-square" />
+<img src="https://img.shields.io/badge/FOXCONN-003B3B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SCHNEIDER%20ELECTRIC-3DCD58?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HERE%20AND%20NOW%20AI-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PANTECH%20SOLUTIONS-EF476F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GIRI%20TRADING%20AGENCY-FFD166?style=for-the-badge" />
 
 </div>
 
-**Programming & Data:** Python, SQL, Pandas, NumPy, Data Cleaning, EDA
-**Visualization & Reporting:** Power BI, Tableau, Matplotlib, Seaborn, Microsoft Excel
-**Development & Workflow:** Jupyter Notebook, Google Colab, Git & GitHub, AI Application Development
-
----
-
-### 06 / CURRENT DIRECTION
-
-- Developing AI-powered applications
-- Advancing data analytics and business intelligence
-- Exploring cloud technologies and deployment
-- Growing SuMaOnix through practical business solutions
-- Mentoring students in Python and project development
-
----
-
-### 07 / LET'S WORK TOGETHER
+<br/>
 
 <div align="center">
 
-**Running a business that needs a website, dashboard or app?**
-**Leading a school or college that wants skill development classes?**
+## 🚀 FEATURED PROJECTS
 
-### Let's talk. The first conversation is free.
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/>
+**🤟 ActionEcho**<br/>
+<sub>Gesture → Speech</sub><br/><br/>
+<img src="https://img.shields.io/badge/MediaPipe-2EC4B6?style=flat-square" />
 
-**sumaonixtech@gmail.com**
+</td>
+<td align="center" width="25%">
 
-<br/>
+**🤖 AI Chatbot**<br/>
+<sub>Smart Website Assistant</sub><br/><br/>
+<img src="https://img.shields.io/badge/AI-EF476F?style=flat-square" />
 
-<a href="https://www.linkedin.com/in/sudharshini-vel/">
-<img src="https://img.shields.io/badge/LINKEDIN-145454?style=for-the-badge&logo=linkedin&logoColor=E8F0E8"/>
-</a>
-<a href="https://github.com/Sudharshini-Vel">
-<img src="https://img.shields.io/badge/GITHUB-145454?style=for-the-badge&logo=github&logoColor=E8F0E8"/>
-</a>
-<a href="https://sumaonix.netlify.app/">
-<img src="https://img.shields.io/badge/SUMAONIX-145454?style=for-the-badge&logo=googlechrome&logoColor=E8F0E8"/>
-</a>
+</td>
+<td align="center" width="25%">
+
+**🚦 Accident Analysis**<br/>
+<sub>Hotspots & Patterns</sub><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-FFD166?style=flat-square" />
+
+</td>
+<td align="center" width="25%">
+
+**🍎 Food Freshness**<br/>
+<sub>Image Classification</sub><br/><br/>
+<img src="https://img.shields.io/badge/ML-118AB2?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-# SIMPLIFY. ANALYZE. INNOVATE.
+## 🛠️ TECH STACK
 
-**"Turning Data into Decisions, and Ideas into Impact."**
-
-*We make everything simple, as no one thinks.*
-
-<br/>
-
-<sub>LESS COMPLEXITY. MORE CLARITY. MEANINGFUL INNOVATION.</sub>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda,powerbi,excel&theme=dark" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:789B8C,50:145454,100:003B3B" alt="Footer accent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharshini-Vel&show_icons=true&theme=tokyonight&hide_border=true&title_color=2EC4B6&icon_color=FFD166&bg_color=0D1B1E" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshini-Vel&layout=compact&theme=tokyonight&hide_border=true&title_color=2EC4B6&bg_color=0D1B1E" height="150"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 LET'S WORK TOGETHER
+
+### Business owner? School or college? Let's talk.
+
+<a href="mailto:sumaonixtech@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20sumaonixtech%40gmail.com-2EC4B6?style=for-the-badge&labelColor=003B3B" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=FFD166&center=true&vCenter=true&width=600&height=40&lines=SIMPLIFY.+ANALYZE.+INNOVATE.;Turning+Data+into+Decisions%2C+Ideas+into+Impact." alt="Philosophy"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2EC4B6,50:145454,100:003B3B&section=footer" alt="Footer"/>
 
 </div>
