@@ -1,66 +1,158 @@
-# 👋 Hi, I'm Sudharshini Vel!
 
-🎓 Final Year B.Tech – Artificial Intelligence & Data Science  
-🚀 Founder @ [SuMaOnix](https://sumaonix.netlify.app/) | 💡 Aspiring Data Analyst  
-💬 Passionate about exploring AI, Data Science & Smart Automation  
+# Sudharshini Vel
+### Founder & CEO @ SuMaOnix | Data Analytics | AI & Automation
 
----
+Building practical technology solutions through data, intelligent systems, and automation.
 
-## 🌟 About Me
-- 🔭 Currently working on: **AI Chatbot Development for SuMaOnix**
-- 🎯 Goal: To build AI-driven solutions that make life simpler & smarter  
-- 🧠 Always learning: Data Visualization • Cloud • Deployment  
-- 🌍 Dream: To work abroad in the field of Data Science & AI  
-- 💬 Motto: *“Turning Data into Decisions — and Ideas into Action.”*
+[![Website](https://img.shields.io/badge/Website-SuMaOnix-004040?style=flat-square)](https://sumaonix.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudharshini-vel/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/Sudharshini-Vel)
 
 ---
 
-## 💻 Tech Stack
+## PROFESSIONAL PROFILE
+
+I am a technology professional with a background in Artificial Intelligence and Data Science, focused on transforming data into meaningful insights and building practical technology solutions.
+
+As the **Founder & CEO of SuMaOnix**, I work across technology, data analytics, skill development, and digital solutions.
+
+My professional interests include:
+
+- Data Analysis, Reporting & Business Intelligence
+- Artificial Intelligence & Machine Learning
+- Data Visualization & Business Insights
+- Process Optimization & Smart Automation
+- Python Development & Technical Training
+- Technology Entrepreneurship
+
+**Core Philosophy:** Simplifying complexity through technology and turning information into actionable intelligence.
+
+---
+
+## TECHNICAL EXPERTISE
+
+### Programming & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Visualization & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Development & Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🏆 Experience
+## PROFESSIONAL EXPERIENCE
 
-![Foxconn](https://img.shields.io/badge/Foxconn-0A1A2F?style=for-the-badge)
-![Schneider Electric](https://img.shields.io/badge/Schneider%20Electric-3DCD58?style=for-the-badge&logo=schneider-electric&logoColor=white)
-![HERE AND NOW AI](https://img.shields.io/badge/HERE%20AND%20NOW%20AI-FF6F00?style=for-the-badge)
-![Giri Trading Agency](https://img.shields.io/badge/Giri%20Trading%20Agency-0A66C2?style=for-the-badge)
-![SumaOnix](https://img.shields.io/badge/SumaOnix-6A0DAD?style=for-the-badge)
+### Founder & CEO — SuMaOnix
 
----
+Leading a technology and skill development initiative focused on:
 
+- Data analytics and business intelligence solutions.
+- Website and application development.
+- AI-driven solutions and automation.
+- Technical training and skill development.
+- Student internships and project-based learning.
 
-## 🧠 Featured Projects
+### Industry Exposure
 
-### 🧩 [ActionEcho](#)
-> Currently working on a machine learning model turn actions into speech it is specially for differently abled people(non verbal people).
+- Foxconn
+- Schneider Electric
+- HERE AND NOW AI
+- Pantech Solutions
+- Giri Trading Agency
 
-### 🤖 [SuMaOnix AI Chatbot](https://sumaonix.netlify.app/)
-> A custom-built chatbot that interacts with users, answers queries, and integrates seamlessly into websites for product-based interactions.
-
-### 🚦 [Traffic Accident Analysis](#)
-> A data visualization project that identifies accident hotspots and analyzes time-based patterns using Python.
-
-### 🥗 [Food Freshness Image Classifier](#)
-> A machine learning model trained on Kaggle dataset to predict food freshness using image classification.
+Experience across industrial environments, AI-related projects, data analysis, reporting, and digital solutions.
 
 ---
 
-## 📫 Connect With Me
+## FEATURED PROJECTS
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sudharshini-vel/
-- 🧑‍💻 GitHub: https://github.com/Sudharshini-Vel  
+### 01. ActionEcho — Gesture-to-Speech System
+
+A gesture recognition system designed to translate hand gestures into speech, supporting communication for non-verbal individuals.
+
+**Technologies:** Python, MediaPipe, Machine Learning, pyttsx3.
+
+### 02. SuMaOnix AI Chatbot
+
+An AI-powered chatbot concept designed to improve website interaction, answer user queries, and support customer engagement.
+
+**Platform:** SuMaOnix
+
+[Visit SuMaOnix](https://sumaonix.netlify.app/)
+
+### 03. Traffic Accident Analysis
+
+A data analytics and visualization project focused on identifying accident hotspots and discovering time-based patterns in traffic accident datasets.
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn.
+
+### 04. Food Freshness Image Classification
+
+A machine learning project that uses image classification to identify food freshness using a dataset sourced from Kaggle.
+
+**Technologies:** Python, Machine Learning, Image Classification.
 
 ---
 
-⭐ *I believe in learning by building and improving every day!*
+## EDUCATION
 
+**B.Tech — Artificial Intelligence & Data Science**
+
+Loyola Institute of Technology  
+Affiliated with Anna University
+
+---
+
+## CURRENT FOCUS
+
+- Developing practical AI-powered applications.
+- Strengthening data analytics and business intelligence capabilities.
+- Exploring cloud technologies and deployment.
+- Building technology solutions through SuMaOnix.
+- Mentoring students in Python programming and practical projects.
+
+---
+
+## GITHUB ANALYTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudharshini-Vel&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshini-Vel&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sudharshini-Vel&theme=tokyonight&hide_border=true)
+
+---
+
+## LET'S CONNECT
+
+- **LinkedIn:** [Sudharshini Vel](https://www.linkedin.com/in/sudharshini-vel/)
+- **GitHub:** [Sudharshini-Vel](https://github.com/Sudharshini-Vel)
+- **Company:** [SuMaOnix](https://sumaonix.netlify.app/)
+- **Email:** sumaonixtech@gmail.com
+
+---
+
+## MY MOTTO
+
+### "We make everything simple, as no one thinks."
+
+Turning complex challenges into simple solutions.  
+Transforming data into decisions.  
+Converting ideas into impact.
+
+**BUILD. ANALYZE. INNOVATE. SIMPLIFY.**
